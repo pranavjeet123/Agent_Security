@@ -1,0 +1,6 @@
+azure-ai-evaluation[redteam]>=1.18.0
+azure-ai-projects>=2.4.0
+azure-ai-agents>=1.1.0
+azure-identity>=1.25.0
+python-dotenv>=1.0.1
+rich>=13.7
